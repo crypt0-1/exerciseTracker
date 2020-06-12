@@ -1,6 +1,6 @@
 <div style="display:flex">
 <img src="screenshots/log.png" width="400">
-  <img src="screenshots/logged.png" width="400" style="padding-top:10px">
+  <img src="screenshots/logged.png" width="400" style="padding-top:30%">
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
