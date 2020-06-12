@@ -1,4 +1,4 @@
-<img src="screenshots/log.png">
+<img src="screenshots/log.png" width="500">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
