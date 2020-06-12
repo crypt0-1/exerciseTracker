@@ -1,5 +1,7 @@
+<div style="display:flex">
 <img src="screenshots/log.png" width="500">
-
+  <img src="screenshots/log.png" width="500">
+</div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
